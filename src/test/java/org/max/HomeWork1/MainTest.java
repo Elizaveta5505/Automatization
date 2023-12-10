@@ -10,6 +10,7 @@ import org.max.home.Door;
 
 public class MainTest extends AbstractTestHome{
 
+    // не хватает проверок когда игрок не меняет выбор
     @Test
     void LoseWithRisk() {
         //given
