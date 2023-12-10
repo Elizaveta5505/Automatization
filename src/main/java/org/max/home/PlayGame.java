@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Main класс для запуска Монти Холла в цикле
+ * Main класс для запуска Монти Холла
  */
 public class PlayGame {
 

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Класс для описания игрока
+ * Класс описания игрока
  */
 public class Player {
     //имя игрока

@@ -19,8 +19,8 @@
     <!-- Архивирование -->
     <packaging>jar</packaging>
 
-    <name>Демо проект</name>
-    <description>Демонстрационный проект для курса введения в автоматизацию</description>
+    <name>Домашнаяя работа</name>
+    <description>Первое домашнее задание курса введения в автоматизацию</description>
     <url>http://demo.max.org</url>
 
     <!-- Зависимости -->
