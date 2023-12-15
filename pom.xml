@@ -19,8 +19,8 @@
     <!-- Архивирование -->
     <packaging>jar</packaging>
 
-    <name>Домашнаяя работа</name>
-    <description>Первое домашнее задание курса введения в автоматизацию</description>
+    <name>Домашнаяя работа2</name>
+    <description>Второе домашнее задание курса введения в автоматизацию</description>
     <url>http://demo.max.org</url>
 
     <!-- Зависимости -->
